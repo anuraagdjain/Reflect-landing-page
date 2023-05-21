@@ -23,7 +23,7 @@
   "keywords": [],
   "name": "reflect-landing-page",
   "homepage": "https://anuraagdjain.github.io/Reflect-landing-page",
-  "description": null,
+  "description": "",
   "version": "0.0.322",
   "scripts": {
     "start": "react-scripts start",
