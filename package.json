@@ -1,0 +1,46 @@
+{
+  "dependencies": {
+    "@chakra-ui/anatomy": "latest",
+    "@chakra-ui/icons": "latest",
+    "@chakra-ui/react": "latest",
+    "@chakra-ui/styled-system": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "framer-motion": "latest",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "latest",
+    "react-syntax-highlighter": "15.5.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@types/react-syntax-highlighter": "15.5.6",
+    "react-scripts": "^5.0.1",
+    "typescript": "^4.0.0"
+  },
+  "main": "src/index.tsx",
+  "keywords": [],
+  "name": "reflect-landing-page",
+  "homepage": "https://anuraagdjain.github.io/Reflect-landing-page",
+  "description": null,
+  "version": "0.0.322",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
